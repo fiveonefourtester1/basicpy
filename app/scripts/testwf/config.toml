@@ -1,0 +1,8 @@
+name = 'testwf'
+schedule = ''
+retries = 1
+timeout = '2m'
+tasks = [
+    'task1',
+    'task2',
+]
